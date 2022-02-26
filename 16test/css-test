@@ -1,0 +1,5 @@
+body {
+	background-color: palegreen;
+	font-size: 150%;
+	color: darkred;
+}
